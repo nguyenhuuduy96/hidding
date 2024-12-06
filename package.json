@@ -1,0 +1,26 @@
+{
+  "name": "hodding",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "ant-design-vue": "^4.2.6",
+    "axios": "^1.7.9",
+    "core-js": "^3.39.0",
+    "swiper": "^11.1.15",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vue3-lazyload": "^0.3.8",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.1"
+  }
+}
