@@ -30,12 +30,55 @@
 
                 <div class="box-navbar">
                     <nav class="navbar navbar-expand-xl">
-                        <div class="offcanvas-navbar">
+                        <div class="offcanvas-navbar ">
                             <div class="offcanvas-body">
                                 <div class="navbar-nav-left">
                                     <ul class="navbar-nav">
-                                        <li class="nav-item dropdown">
-                                            <a-menu v-model:selectedKeys="current" mode="horizontal" :items="menuItems" />
+                                        <li class="nav-item dropdown ">
+                                            <a href="https://demo46.bivaco.net" class="nav-link dropdown-toggle-hover">
+                                                <span>Trang chủ</span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item dropdown ">
+                                            <a href="https://demo46.bivaco.net/gioi-thieu"
+                                                class="nav-link dropdown-toggle-hover">
+                                                <span>Giới thiệu</span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item dropdown ">
+                                            <a href="https://demo46.bivaco.net/luu-tru"
+                                                class="nav-link dropdown-toggle-hover">
+                                                <span>Lưu trú</span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item dropdown ">
+                                            <a href="javascript:void(0);" class="nav-link dropdown-toggle-hover">
+                                                <span>Ẩm thực</span>
+                                                <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                        stroke-linejoin="round"></g>
+                                                    <g id="SVGRepo_iconCarrier">
+                                                        <path d="M7 10L12 15L17 10" stroke="#000000" stroke-width="1.5"
+                                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </g>
+                                                </svg>
+                                            </a>
+                                            <ul class="dropdown-menu-menu-c2 ">
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/nha-hang"
+                                                        class="dropdown-item ">Nhà hàng</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/bbq"
+                                                        class="dropdown-item ">BBQ</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/bar-coffee"
+                                                        class="dropdown-item ">Bar &amp; Coffee</a>
+                                                </li>
+                                            </ul>
                                         </li>
                                     </ul>
                                 </div>
@@ -54,12 +97,80 @@
                         </div>
                     </a>
                     <nav class="navbar navbar-expand-xl">
-                        <div class="offcanvas-navbar">
+                        <div class="offcanvas-navbar ">
                             <div class="offcanvas-body">
                                 <div class="navbar-nav-left">
                                     <ul class="navbar-nav">
-                                        <li class="nav-item dropdown">
-                                            <a-menu v-model:selectedKeys="current" mode="horizontal" :items="menuItems" />
+                                        <li class="nav-item dropdown ">
+                                            <a href="javascript:void(0);" class="nav-link dropdown-toggle-hover">
+                                                <span>Trải nghiệm</span>
+                                                <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                        stroke-linejoin="round"></g>
+                                                    <g id="SVGRepo_iconCarrier">
+                                                        <path d="M7 10L12 15L17 10" stroke="#000000" stroke-width="1.5"
+                                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </g>
+                                                </svg>
+                                            </a>
+                                            <ul class="dropdown-menu-menu-c2 ">
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/van-don-farm"
+                                                        class="dropdown-item ">Vân Đồn Farm</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/trekking"
+                                                        class="dropdown-item ">Trekking</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/cam-trai"
+                                                        class="dropdown-item ">Cắm trại</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown ">
+                                            <a href="javascript:void(0);" class="nav-link dropdown-toggle-hover">
+                                                <span>Sự kiện</span>
+                                                <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                        stroke-linejoin="round"></g>
+                                                    <g id="SVGRepo_iconCarrier">
+                                                        <path d="M7 10L12 15L17 10" stroke="#000000" stroke-width="1.5"
+                                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </g>
+                                                </svg>
+                                            </a>
+                                            <ul class="dropdown-menu-menu-c2 ">
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/hoi-truong"
+                                                        class="dropdown-item ">Hội trường</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/phong-hop"
+                                                        class="dropdown-item ">Phòng họp</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://demo46.bivaco.net/team-building"
+                                                        class="dropdown-item ">Team building</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="nav-item dropdown ">
+                                            <a href="https://demo46.bivaco.net/tin-tuc"
+                                                class="nav-link dropdown-toggle-hover">
+                                                <span>Tin tức</span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item dropdown ">
+                                            <a href="https://demo46.bivaco.net/lien-he.html"
+                                                class="nav-link dropdown-toggle-hover">
+                                                <span>Liên hệ</span>
+                                            </a>
                                         </li>
                                     </ul>
                                 </div>
