@@ -1,0 +1,156 @@
+{
+  "mv": {
+    "image": "https://demo21.bivaco.net/public/frontend/images/banner.png"
+  },
+  "subdivisionList": [
+    {
+      "title": "Nguồn cung nhà ở xã hội tại Hà Nội tiếp tục tăng trưởng",
+      "image": "https://demo21.bivaco.net/storage/post/nha-o-xh_1730877742.webp",
+      "icon": "https://demo46.bivaco.net/storage/product/xanh_1733364615.webp",
+      "project_name": "The Sola Park",
+      "brief": "Nhà ở xã hội đang ghi nhận sự tăng trưởng nguồn cung mới tại Hà Nội – một thị trường trọng điểm về nhà ở nhưng lại khan hiếm nguồn cung bình dân. Hàng lang pháp lý mới được thông qua đang tạo điều kiện thuận lợi thúc đẩy nguồn cung này trong thời gian tới.",
+      "price": "6.66tỷ",
+      "type1": "Kiến trúc Đông Dương",
+      "type2": "hạng sang"
+    },
+    {
+      "title": "Chung cư Hà Nội tiếp tục nhảy giá những tháng cuối năm 2024",
+      "image": "https://demo21.bivaco.net/storage/post/chung-cu-hn_1730877831.webp",
+      "icon": "https://demo46.bivaco.net/storage/product/xanh_1733364615.webp",
+      "project_name": "The Sola Park",
+      "brief": "Nhà ở xã hội đang ghi nhận sự tăng trưởng nguồn cung mới tại Hà Nội – một thị trường trọng điểm về nhà ở nhưng lại khan hiếm nguồn cung bình dân. Hàng lang pháp lý mới được thông qua đang tạo điều kiện thuận lợi thúc đẩy nguồn cung này trong thời gian tới.",
+      "price": "6.66tỷ",
+      "type1": "Kiến trúc Đông Dương",
+      "type2": "hạng sang"
+    },
+    {
+      "title": "Đất nền Hà Nội “tăng nhiệt” cuối năm",
+      "image": "https://demo21.bivaco.net/storage/post/dat-nen_1730863650.webp",
+      "icon": "https://demo46.bivaco.net/storage/product/xanh_1733364615.webp",
+      "project_name": "The Sola Park",
+      "brief": "Nhà ở xã hội đang ghi nhận sự tăng trưởng nguồn cung mới tại Hà Nội – một thị trường trọng điểm về nhà ở nhưng lại khan hiếm nguồn cung bình dân. Hàng lang pháp lý mới được thông qua đang tạo điều kiện thuận lợi thúc đẩy nguồn cung này trong thời gian tới.",
+      "price": "6.66tỷ",
+      "type1": "Kiến trúc Đông Dương",
+      "type2": "hạng sang"
+    },
+    {
+      "title": "Chung cư Hà Nội: Sự dịch chuyển dòng tiền từ khu Tây sang khu Đông",
+      "image": "https://demo21.bivaco.net/storage/post/tin-tuc_1730863102.webp",
+      "icon": "https://demo46.bivaco.net/storage/product/xanh_1733364615.webp",
+      "project_name": "Tây sang khu Đông",
+      "brief": "Không khó để nhận thấy thị trường bất động sản Hà Nội đang có 2 cực tăng trưởng chính: Khu Tây và Khu Đông. Trong khi quỹ đất tại khu Tây đang cạn kiệt, nguồn cung dần khan hiếm thì khu Đông lại đang hút các doanh nghiệp, nhà đầu tư về.",
+      "price": " 60-90 triệu đồng/m²",
+      "type1": "Kiến trúc Đông Dương",
+      "type2": "hạng sang"
+    }
+  ],
+  "projectList": [
+    {
+      "title": "Dự án Noble Crystal Tây Hồ",
+      "image": "https://demo21.bivaco.net/storage/category-product/noble_1730862834.webp",
+      "address": "Lô đất CT01, khu đô thị Quốc tế Ciputra, phường Phú Thượng, quận Tây Hồ, Hà Nội",
+      "total_area": "quy hoạch trên diện tích 50.850m²",
+      "view": 20
+    },
+    {
+      "title": "Lumi Hanoi: Dự án chung cư cao cấp tại Hà Nội",
+      "image": "https://demo21.bivaco.net/storage/category-product/lumi_1730862734.webp",
+      "address": "mặt đường đại lộ Thăng Long, quận Nam Từ Liêm, thủ đô Hà Nội",
+      "total_area": "tổng diện tích 5,6 ha",
+      "view": 20
+    },
+    {
+      "title": "Dự án căn hộ The Glory by Silk Path",
+      "image": "https://demo21.bivaco.net/storage/category-product/glory_1730862411.webp",
+      "address": "số 08 đường Nguyên Hồng, phường Láng Hạ, quận Đống Đa, Hà Nội",
+      "total_area": "tổng diện tích 2.340m²",
+      "view": 20
+    },
+    {
+      "title": "Khu căn hộ The Sola Park - Imperia Smart City",
+      "image": "https://demo21.bivaco.net/storage/category-product/sola_1730862262.webp",
+      "address": "khu đô thị Vinhomes Smart City, phường Tây Mỗ, quận Nam Từ Liêm, Hà Nộ",
+      "total_area": "Tổng diện tích: 385 ha",
+      "view": 20
+    }
+  ],
+  "leaseList": [
+    {
+      "title": "Nguồn cung nhà ở xã hội tại Hà Nội tiếp tục tăng trưởng",
+      "image": "https://demo21.bivaco.net/storage/photos/2/tintuc/nha-o-1.webp",
+      "price": "20,00 triệu/tháng",
+      "project_name": "Cho thuê",
+      "area": "160m²"
+    },
+    {
+      "title": "Chung cư Hà Nội tiếp tục nhảy giá những tháng cuối năm 2024",
+      "image": "https://demo21.bivaco.net/storage/post/chung-cu-hn_1730877831.webp",
+      "price": "20,00 triệu/tháng",
+      "project_name": "Cho thuê",
+      "area": "150m²"
+    },
+    {
+      "title": "Đất nền Hà Nội “tăng nhiệt” cuối năm",
+      "image": "https://demo21.bivaco.net/storage/post/dat-nen_1730863650.webp",
+      "price": "20,00 triệu/tháng",
+      "project_name": "Cho thuê",
+      "area": "120m²"
+    },
+    {
+      "title": "Chung cư Hà Nội: Sự dịch chuyển dòng tiền từ khu Tây sang khu Đông",
+      "image": "https://demo21.bivaco.net/storage/post/tin-tuc_1730863102.webp",
+      "price": "20,00 triệu/tháng",
+      "project_name": "Cho thuê",
+      "area": "100m²"
+    },
+    {
+      "title": "Dự án căn hộ The Glory by Silk Path",
+      "image": "https://demo21.bivaco.net/storage/category-product/glory_1730862411.webp",
+      "price": "22,00 triệu/tháng",
+      "project_name": "Cho thuê",
+      "area": "200m²"
+    },
+    {
+      "title": "Dự án Noble Crystal Tây Hồ",
+      "image": "https://demo21.bivaco.net/storage/category-product/noble_1730862834.webp",
+      "price": "20,00 triệu/tháng",
+      "project_name": "Cho thuê",
+      "area": "250m²"
+    }
+  ],
+  "banner_qr": {
+    "title": "title",
+    "image": "https://demo21.bivaco.net/public/frontend/images/banner.png",
+    "href": ""
+  },
+  "articles": [
+    {
+      "title": "Nguồn cung nhà ở xã hội tại Hà Nội tiếp tục tăng trưởng",
+      "image": "https://demo21.bivaco.net/storage/post/nha-o-xh_1730877742.webp",
+      "brief": "<p>Nhà ở xã hội đang ghi nhận sự tăng trưởng nguồn cung mới tại Hà Nội – một thị trường trọng điểm về nhà ở nhưng lại khan hiếm nguồn cung bình dân. Hàng lang pháp lý mới được thông qua đang tạo điều kiện thuận lợi thúc đẩy nguồn cung này trong thời gian tới.</p>"
+    },
+    {
+      "title": "Chung cư Hà Nội tiếp tục nhảy giá những tháng cuối năm 2024",
+      "image": "https://demo21.bivaco.net/storage/post/chung-cu-hn_1730877831.webp",
+      "brief": "<p>Đà tăng giá của chung cư Hà Nội tiếp tục có xu hướng đi lên trong các tháng cuối năm 2024. Tốc độ tăng giá không ngừng nghỉ từ đầu năm đến nay, tiếp tục đẩy giá chung cư Hà Nội lên một mặt bằng mới.</p>"
+    },
+    {
+      "title": "Đất nền Hà Nội “tăng nhiệt” cuối năm",
+      "image": "https://demo21.bivaco.net/storage/post/dat-nen_1730863650.webp",
+      "brief": "<p>Càng về các tháng cuối năm 2024, dấu hiệu tăng nhiệt của thị trường đất nền Hà Nội ngày càng rõ nét. Cả giá bán và giao dịch tại các thị trường ven Hà Nội đều đang tăng nhiệt so với các quý trước đó. Nhiều môi giới và nhà đầu tư đã đổ về thị trường đất nền vùng ven để khởi động các kế hoạch bán hàng.</p>"
+    }
+  ],
+  "project_pro": {
+    "title": "Quỹ căn giới hạn giá tốt nhất toàn dự án",
+    "brief": "Độc quyền phân khu Chà Là",
+    "view": "1.227.708",
+    "desc": "Cơ hội đầu tư tốt nhất từ đầu năm 2024",
+    "image": "https://demo21.bivaco.net/storage/post/chung-cu-hn_1730877831.webp",
+    "item": {
+      "title": "Nhà liền kề 48 m²",
+      "image": "https://market.vinhomes.vn/photo/px/get/k-u3hJFa12cpBEIW121ilUbAES6384GW9LdjyWPJfZI/rs:fit:0:300:1/g:no/q:0/czM6Ly92aG0tbWFya2V0cGxhY2UtcGhvdG8tcHJvZC9waG90b19vcmlnaW5hbC8yMDI0LzA3LzI5L3ZodnVxRlFWV19mRWN4TTExUTBwQkUtSldWeG02bm91Mk9BdTRIVmdma2picEpJaWs3XzRUVE9GOU9PdnA3R2NLel9XRTBVR3hhVUgzS2ZxT2Q0NENzTXc9PQ.jpg",
+      "price": "6.775.813.754 VNĐ",
+      "price_sale": "8.048.694.694 VNĐ"
+    }
+  }
+}

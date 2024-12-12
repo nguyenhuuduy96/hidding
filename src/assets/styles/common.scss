@@ -1,0 +1,33 @@
+.common-ttl {
+  &01 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    position: relative;
+    padding-bottom: 5px;
+
+    @media (max-width: 767px) {
+      margin-bottom: 15px;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      background: #ec8a42;
+      height: 2px;
+      width: 50px;
+    }
+  }
+  &02{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+}
+.box{
+  border: 1px solid #c1c4d6;
+  padding: 20px;
+  border-radius: 6px;
+}
